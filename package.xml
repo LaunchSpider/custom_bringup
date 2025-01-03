@@ -9,6 +9,8 @@
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
+  <exec_depend>lifecycle_py</exec_depend>
+
   <exec_depend>py_package</exec_depend>
   <exec_depend>cpp_package</exec_depend>
   <exec_depend>turtlesim</exec_depend>
